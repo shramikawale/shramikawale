@@ -3,7 +3,7 @@
 
 Result oriented DevOps engineer and love to create an impact to organizational business with innovative solutions. I strive to optimize and automate application infrastructure with less downtime and maintenance cost. 
 
-Giving back to the community on [Blog](https://medium.com/@shramikawale) and [Youtube] (https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos) channel.
+Giving back to the community on [Blog](https://medium.com/@shramikawale) and [Youtube](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos) channel.
 
 Started own startup with small team on DevOps as a Services [ATS](https://awaketechsolution.com)
 
