@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shramik Awale
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTmZA3ZlxWh8dG149swJiVA?label=Subscribe%20to%20Nepali%20DevOps&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTmZA3ZlxWh8dG149swJiVA?label=Total%20views%20of%20my%20channel&style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTmZA3ZlxWh8dG149swJiVA?label=Subscribe%20to%20Nepali%20DevOps&style=social)](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTmZA3ZlxWh8dG149swJiVA?label=Total%20views%20of%20my%20channel&style=social)](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos)
 
 Result oriented DevOps engineer and love to create an impact to organizational business with innovative solutions. I strive to optimize and automate application infrastructure with less downtime and maintenance cost. 
 
