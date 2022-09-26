@@ -27,5 +27,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://shramikawale.medium.com/rss.xml"
+          feed_list: "https://shramikawale.medium.com/feed"
      
