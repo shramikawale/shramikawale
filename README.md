@@ -30,7 +30,7 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Converting Legacy to Cloud Native Application.](https://shramikawale.medium.com/cts-converting-legacy-to-cloud-native-application-9c777eb33023?source=rss-f8d8178d69b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [...more Blog Articles](https://medium.com/@shramikawale)
