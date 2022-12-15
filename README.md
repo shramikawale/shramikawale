@@ -18,6 +18,7 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DevOps In 100 seconds  | Introduction To DevOps | DevOps Explained | DevOps For Beginners](https://www.youtube.com/watch?v=jgrDyjsvLPc)
 - [Nepali DevOps Part 4 &lpar;Ansible: Configuration Management Tool&rpar;](https://www.youtube.com/watch?v=b2RfzyMQ8Q0)
 - [Nepali DevOps Part 3 &lpar;Linux, Nginx, MariaDB &amp; PHP in Docker Container&rpar;](https://www.youtube.com/watch?v=3PJz_hIVIK8)
 - [Nepali DevOps Part-2 &lpar;Deep Dive into Docker&rpar;](https://www.youtube.com/watch?v=4SzWSlh2oWM)
