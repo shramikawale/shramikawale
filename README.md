@@ -18,11 +18,11 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [#visit #notes #library #explore #saturday](https://www.youtube.com/watch?v=bCDhKlDmTN0)
 - [my favorite place 😊🕊️](https://www.youtube.com/watch?v=ZEJh1AuyC8E)
 - [#explore #Nepal 🇳🇵](https://www.youtube.com/watch?v=JwWDwiUG8iY)
 - [Heritage Nepal 🇳🇵](https://www.youtube.com/watch?v=SAYs66HMAHY)
 - [IT Consultancy: Why your business would need in this era?](https://www.youtube.com/watch?v=75eBBP4-rtA)
-- [Why DevOps in 100 seconds ? Introduction To DevOps | DevOps Explained | DevOps For Beginners](https://www.youtube.com/watch?v=B9Dj8fgTnts)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [...more Youtube videos](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos)
