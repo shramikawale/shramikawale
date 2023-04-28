@@ -18,11 +18,11 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [World&#39;s unique, longest and biggest festival &lpar;Jatra&rpar; in Nepal. #nepal #travel #explore #festival](https://www.youtube.com/watch?v=9--MTBmTQC8)
 - [#life #travel #cloud #thankful #hike #explore #nepal](https://www.youtube.com/watch?v=v04zdtFniVI)
 - [#tea #break at #matkaahouse #nepal #live #everymoment 😊](https://www.youtube.com/watch?v=xhUl6CkThr4)
 - [At #jamacho #hiking #explore #nepal 🇳🇵](https://www.youtube.com/watch?v=mf5W9euPfqE)
 - [#visit #notes #library #explore #saturday](https://www.youtube.com/watch?v=bCDhKlDmTN0)
-- [my favorite place 😊🕊️](https://www.youtube.com/watch?v=ZEJh1AuyC8E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [...more Youtube videos](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos)
