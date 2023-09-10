@@ -31,6 +31,7 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust Security in K8s: Building a Fortified Defense](https://shramikawale.medium.com/zero-trust-security-in-kubernetes-building-a-fortified-defense-cd8f131fa231?source=rss-f8d8178d69b7------2)
 - [Converting Legacy to Cloud Native Application.](https://shramikawale.medium.com/cts-converting-legacy-to-cloud-native-application-9c777eb33023?source=rss-f8d8178d69b7------2)
 <!-- BLOG-POST-LIST:END -->
 
