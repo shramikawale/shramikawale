@@ -31,11 +31,11 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [NTC DevOps](https://shramikawale.medium.com/ntc-devops-3d04fde4df10?source=rss-f8d8178d69b7------2)
 - [Zero Trust Security in K8s: Building a Fortified Defense](https://shramikawale.medium.com/zero-trust-security-in-kubernetes-building-a-fortified-defense-cd8f131fa231?source=rss-f8d8178d69b7------2)
 - [3 minutes downtime on RDS MySQL Upgrade.](https://shramikawale.medium.com/3-minutes-downtime-on-rds-mysql-upgrade-dc21573353af?source=rss-f8d8178d69b7------2)
 - [PodsDisruptionBudget: Why you will need in Kubernetes?](https://shramikawale.medium.com/podsdisruptionbudget-why-you-will-need-in-kubernetes-c939904d590d?source=rss-f8d8178d69b7------2)
 - [Converting Legacy to Cloud Native Application.](https://shramikawale.medium.com/cts-converting-legacy-to-cloud-native-application-9c777eb33023?source=rss-f8d8178d69b7------2)
+- [Secure your Cloud and On-premise Infrastructure with Open-source tools.](https://shramikawale.medium.com/secure-your-cloud-and-on-premise-infrastructure-with-open-source-tools-e97a6bc41ce6?source=rss-f8d8178d69b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [...more Blog Articles](https://medium.com/@shramikawale)
