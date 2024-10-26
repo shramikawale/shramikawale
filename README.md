@@ -18,11 +18,11 @@ Besides being a DevOps person, I love dogs. Trekking and traveling has become a 
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [iPhone 16 Pro Max: Part 1 #smartphone #unboxing #flipkart #phonelaunch #iphone16promax #trending](https://www.youtube.com/watch?v=bdL3MggmjK4)
 - [#manang #roadtrip #nepal #travel #love #explore #vacation #trending](https://www.youtube.com/watch?v=A1JuiPYxGO4)
 - [#travel #nepal #ride #xpulse #cloud #nature #explore](https://www.youtube.com/watch?v=XG6NaBpmgTQ)
 - [#lakhe #culture #nepal](https://www.youtube.com/watch?v=J3eJg0WkGzA)
 - [#weekend for #hiking #explore #nature #phulchoki #nepal #ktm #valley](https://www.youtube.com/watch?v=F3IB8grXhOs)
-- [#travel #explore #bhaktapur #durbarsquare #nepal #love](https://www.youtube.com/watch?v=VezEFsfUoT8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [...more Youtube videos](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos)
