@@ -5,7 +5,7 @@ Result oriented DevOps engineer and love to create an impact to organizational b
 
 Giving back to the community on [Blog](https://medium.com/@shramikawale) and [Youtube](https://www.youtube.com/channel/UCTmZA3ZlxWh8dG149swJiVA/videos) channel.
 
-Started own startup with small team on DevOps as a Services [ATS](https://awaketechsolution.com)
+<!-- Started own startup with small team on DevOps as a Services [ATS](https://awaketechsolution.com) -->
 
 Besides being a DevOps person, I love dogs. Trekking and traveling has become a recent hobby of mine. You can find me also [here](https://shramikawale.ml)
 
